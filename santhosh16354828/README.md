@@ -1,15 +1,12 @@
-# Principles_DataScience
-This Rep has two folders 1)student performace Analysis and 2)Frailty Analysis
+There are two folders in this Rep. 1) Analysis of student performance; and 2) Analysis of frailty
 
-Student Performance Analysis:
-Has following fields 
-a)Gender b)ethnicity c)parental level of education d)lunch e)test preparation course f)Math score g)reading score and writing score
+Analysis of Student Performance: possesses the fields listed below Gender, ethnicity, parental education level, lunch, test preparation course, math score, reading and writing scores, and test preparation course
 
-Frailty has follwing fileds:
-a)Height b)Weight c)Age d)Grip Strength e)Frailty
 
-Each folder (both studentperformance and Frailty has following structure)
+The following fields include frailty: a) height; b) weight; c) age; d) grip strength; e) frailty
 
-a)data_raw( contains raw data file) b)data_clean(the data obtained after preprocessing) c)src( contains scripts for preprocessing and data analysis) d)result( contains results for data analysis)
+Every folder (frailty and student performance) has the structure listed below.
 
-Note: The code for preprocessing and visualization , Python language is used. Softwares required to run scripts a)Jupiter b)Python
+a)data_raw(contains file with raw data) b) data_clean (the preprocessed data) c) src (contains preprocessing and data analysis routines) d) result (contains data analysis results)
+
+Note: Python is used in the preparation and visualisation code. Programmes needed to execute scripts Jupiter a) Python b)
